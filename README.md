@@ -24,6 +24,7 @@ php artisan taxi:tcp:start
 
 ```bash
 cd ./nodejs-remote
+npm install
 node index.js
 ```
 
