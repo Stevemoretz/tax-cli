@@ -25,6 +25,7 @@ Also put `DB_PASSWORD=` I guess wamp database had no password.
 7. run this commands in your terminal (IDE's terminal or cmd at wamp's root) : 
 
 ```bash
+composer install
 php artisan migrate
 ```
 
